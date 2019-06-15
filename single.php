@@ -11,6 +11,7 @@ class Single {
 	//私有化构造方法
 	private function __construct( $name ) {
 		//
+
 		$this->name = $name;
 
 	}
